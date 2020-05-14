@@ -1,0 +1,29 @@
+[
+    {
+        "last-modified": "2020-5-14T15:37:00-04:00",
+        "code": "04010",
+        "faqs": 
+            [ 
+                {
+                    "text": "Only cards attached to QUATERMAN can affect its bullets.",
+                    "source": "Compendium"
+                },
+                {
+                    "text": "Cannot use abilities that require him to boot.",
+                    "source": "Compendium"
+                },
+                {
+                    "text": "Can go on jobs at other locations, because it is the job rules that boot it, not the job card itself.",
+                    "source": "Compendium"
+                },
+                {
+                    "text": "Can be brought into play elsewhere using the Stagecoach Office.",
+                    "source": "Compendium"
+                },
+                {
+                    "text": "Can be brought into play using Recruitment Drive, but the Mad Scientist must still boot in a controlled location and pass a skill check.",
+                    "source": "Compendium"
+                }
+            ]           
+    }  
+]
